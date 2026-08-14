@@ -1,0 +1,6 @@
+{
+  "name": "SEO Schema & Metadata Optimizer",
+  "description": "AI-powered technical SEO platform for small businesses to crawl pages, generate click-optimized meta tags, rich JSON-LD schemas, and Search Console compliant sitemap_live.xml files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
